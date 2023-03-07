@@ -1,1 +1,2 @@
-# Develhope_Project_v2_team-2
+# Develhope
+## Project 2 (Team 2)

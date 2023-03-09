@@ -11,7 +11,7 @@ ORDER BY total_installs DESC;
 
 SELECT 
 	Category, 
-	SUM(price) AS total_price_per_app
+	ROUND(SUM(price),2) AS total_price_per_app
 FROM googleplaystore_clean gc
 GROUP BY Category
 ORDER BY total_price_per_app DESC;

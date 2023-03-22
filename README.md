@@ -24,3 +24,9 @@
 - Print a table and a plot chart for top 5 download apps with smallest size and highest downloading number
 - Print a table and a plot chart for top 5 download apps in each category free and paid (if there is paid)
 - Prepare the presentation
+
+## Week 4 (Faiza Azami)
+- Find if there's any correlation between app prices and their content rating (Everyone, Teen, Mature...)
+- Find the sentiment of all apps using NP files and AFFIN lib.
+- List 5 paid apps with the highest sentiment number for affin, as well as 5 paid apps with the lowest sentiment (w/ name of app & app category)
+- Determine what is the best category according to the sum of all app sentiment values

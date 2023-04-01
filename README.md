@@ -9,7 +9,7 @@
 
 
 # TASKS
-## Week 1 (individual task):
+## Week 1 (individual tasks):
 - Clean and prepare the dataset for analyzing
 - Plot any top 3 downloaded apps using any type of plotting charts
 
@@ -30,3 +30,9 @@
 - Find the sentiment of all apps using NP files and AFFIN lib.
 - List 5 paid apps with the highest sentiment number for affin, as well as 5 paid apps with the lowest sentiment (w/ name of app & app category)
 - Determine what is the best category according to the sum of all app sentiment values
+
+## Week 5 (Mohammad Muttaqi)
+- Split dataset into 4 parts and pickle them
+- Unlock the pickling and merge the dataset in the following order: 2-4-1-3 
+- Reverse the whole data set: 3-1-4-2
+- Apply 'sliding window' technique and store the patches in a 2D list
